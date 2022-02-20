@@ -1,0 +1,33 @@
+{
+	"quizId": 4,
+	"quizSet": {
+		"slug": "intermediate",
+		"name": "日本語問題 中級",
+		"quizLength": 10
+	},
+	"question": {
+		"num": 4,
+		"title": "次の漢字の読みを答えて下さい",
+		"description": "クロスワードのようなパズルを<b>解</b>いたことがありますか？",
+		"hint": ""
+	},
+	"choices": [
+		{
+			"key": "A",
+			"value": "と"
+		},
+		{
+			"key": "B",
+			"value": "か"
+		},
+		{
+			"key": "C",
+			"value": "け"
+		}
+	],
+	"answer": {
+		"key": "A",
+		"value": "といた",
+		"explanation": ""
+	}
+}

@@ -1,0 +1,24 @@
+{
+	"quizId": 7,
+	"quizSet": {
+		"slug": "n5",
+		"name": "日本語問題　N5レベル",
+		"quizLength": 10
+	},
+	"question": {
+		"num": 7,
+		"title": "次の会話を埋めてください",
+		"description": "おはよう、お母さん。今日の（    ）は何かな？",
+		"hint": "ごはん=mealという意味もあるよ！"
+	},
+	"choices": [
+		{ "key": "A", "value": "朝ごはん" },
+		{ "key": "B", "value": "ライス" },
+		{ "key": "C", "value": "お米" }
+	],
+	"answer": {
+		"key": "A",
+		"value": "朝ごはん",
+		"explanation": "“ごはん” = mealという意味もあり、”朝ごはん” = breakfastを意味します。</br>文脈から朝食を尋ねていることがわかるので、”朝ごはん”が正解です！"
+	}
+}

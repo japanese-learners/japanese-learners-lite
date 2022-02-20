@@ -1,0 +1,33 @@
+{
+	"quizId": 7,
+	"quizSet": {
+		"slug": "beginner",
+		"name": "日本語問題 初級",
+		"quizLength": 10
+	},
+	"question": {
+		"num": 7,
+		"title": "次の漢字を答えて下さい",
+		"description": "お父さんはぼうしを<b>かぶ</b>リました",
+		"hint": ""
+	},
+	"choices": [
+		{
+			"key": "A",
+			"value": "被"
+		},
+		{
+			"key": "B",
+			"value": "株"
+		},
+		{
+			"key": "C",
+			"value": "下部"
+		}
+	],
+	"answer": {
+		"key": "A",
+		"value": "被",
+		"explanation": ""
+	}
+}

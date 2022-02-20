@@ -1,0 +1,33 @@
+{
+	"quizId": 9,
+	"quizSet": {
+		"slug": "advanced",
+		"name": "日本語問題 上級",
+		"quizLength": 10
+	},
+	"question": {
+		"num": 9,
+		"title": "次の漢字を答えて下さい",
+		"description": "定量化できない<b>じしょう</b>には定性的な評価が必要だ",
+		"hint": ""
+	},
+	"choices": [
+		{
+			"key": "A",
+			"value": "自称"
+		},
+		{
+			"key": "B",
+			"value": "事症"
+		},
+		{
+			"key": "C",
+			"value": "事象"
+		}
+	],
+	"answer": {
+		"key": "C",
+		"value": "事象",
+		"explanation": ""
+	}
+}

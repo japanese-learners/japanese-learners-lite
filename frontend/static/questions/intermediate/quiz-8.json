@@ -1,0 +1,33 @@
+{
+	"quizId": 8,
+	"quizSet": {
+		"slug": "intermediate",
+		"name": "日本語問題 中級",
+		"quizLength": 10
+	},
+	"question": {
+		"num": 8,
+		"title": "次の漢字を答えて下さい",
+		"description": "本人の意思なので、やりたい、これがなければ勝つという<b>きぼう</b>すらない",
+		"hint": ""
+	},
+	"choices": [
+		{
+			"key": "A",
+			"value": "志望"
+		},
+		{
+			"key": "B",
+			"value": "展望"
+		},
+		{
+			"key": "C",
+			"value": "希望"
+		}
+	],
+	"answer": {
+		"key": "C",
+		"value": "希望",
+		"explanation": ""
+	}
+}

@@ -1,0 +1,33 @@
+{
+	"quizId": 3,
+	"quizSet": {
+		"slug": "beginner",
+		"name": "日本語問題 初級",
+		"quizLength": 10
+	},
+	"question": {
+		"num": 3,
+		"title": "次の漢字の読みを答えて下さい",
+		"description": "<b>電気</b>をけすのをわすれないで",
+		"hint": ""
+	},
+	"choices": [
+		{
+			"key": "A",
+			"value": "でんき"
+		},
+		{
+			"key": "B",
+			"value": "でんりょく"
+		},
+		{
+			"key": "C",
+			"value": "でんし"
+		}
+	],
+	"answer": {
+		"key": "A",
+		"value": "でんき",
+		"explanation": ""
+	}
+}

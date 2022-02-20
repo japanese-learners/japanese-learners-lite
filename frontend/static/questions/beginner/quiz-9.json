@@ -1,0 +1,33 @@
+{
+	"quizId": 9,
+	"quizSet": {
+		"slug": "beginner",
+		"name": "日本語問題 初級",
+		"quizLength": 10
+	},
+	"question": {
+		"num": 9,
+		"title": "次のカタカナを答えて下さい",
+		"description": "<b>べっど</b>でねむります",
+		"hint": ""
+	},
+	"choices": [
+		{
+			"key": "A",
+			"value": "ペット"
+		},
+		{
+			"key": "B",
+			"value": "ベッド"
+		},
+		{
+			"key": "C",
+			"value": "ペッリ"
+		}
+	],
+	"answer": {
+		"key": "B",
+		"value": "ベッド",
+		"explanation": ""
+	}
+}

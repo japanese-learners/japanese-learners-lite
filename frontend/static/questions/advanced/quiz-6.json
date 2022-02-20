@@ -1,0 +1,33 @@
+{
+	"quizId": 6,
+	"quizSet": {
+		"slug": "advanced",
+		"name": "日本語問題 上級",
+		"quizLength": 10
+	},
+	"question": {
+		"num": 6,
+		"title": "次の漢字を答えて下さい",
+		"description": "彼はしばらく<b>あっけ</b>にとられていた",
+		"hint": ""
+	},
+	"choices": [
+		{
+			"key": "A",
+			"value": "呆気"
+		},
+		{
+			"key": "B",
+			"value": "悪気"
+		},
+		{
+			"key": "C",
+			"value": "空気"
+		}
+	],
+	"answer": {
+		"key": "A",
+		"value": "呆気",
+		"explanation": ""
+	}
+}

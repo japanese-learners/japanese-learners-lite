@@ -1,0 +1,33 @@
+{
+	"quizId": 7,
+	"quizSet": {
+		"slug": "advanced",
+		"name": "日本語問題 上級",
+		"quizLength": 10
+	},
+	"question": {
+		"num": 7,
+		"title": "次の漢字を答えて下さい",
+		"description": "彼はまるで<b>ぶんごう</b>の作品のようにラノベを語り出した",
+		"hint": ""
+	},
+	"choices": [
+		{
+			"key": "A",
+			"value": "文豪"
+		},
+		{
+			"key": "B",
+			"value": "文剛"
+		},
+		{
+			"key": "C",
+			"value": "文強"
+		}
+	],
+	"answer": {
+		"key": "A",
+		"value": "文豪",
+		"explanation": ""
+	}
+}

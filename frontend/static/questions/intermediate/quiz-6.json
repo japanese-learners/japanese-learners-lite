@@ -1,0 +1,33 @@
+{
+	"quizId": 6,
+	"quizSet": {
+		"slug": "intermediate",
+		"name": "日本語問題 中級",
+		"quizLength": 10
+	},
+	"question": {
+		"num": 6,
+		"title": "次の漢字を答えて下さい",
+		"description": "<b>じゅうらい</b>のオフィスとは決定的に違う点は自分の席が無いことだ",
+		"hint": ""
+	},
+	"choices": [
+		{
+			"key": "A",
+			"value": "家来"
+		},
+		{
+			"key": "B",
+			"value": "往来"
+		},
+		{
+			"key": "C",
+			"value": "従来"
+		}
+	],
+	"answer": {
+		"key": "C",
+		"value": "従来",
+		"explanation": ""
+	}
+}

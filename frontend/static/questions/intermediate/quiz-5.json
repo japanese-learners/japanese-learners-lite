@@ -1,0 +1,33 @@
+{
+	"quizId": 5,
+	"quizSet": {
+		"slug": "intermediate",
+		"name": "日本語問題 中級",
+		"quizLength": 10
+	},
+	"question": {
+		"num": 5,
+		"title": "次の漢字の読みを答えて下さい",
+		"description": "家にいながら勉強できるなんて、まったく<b>夢</b>のようですね。",
+		"hint": ""
+	},
+	"choices": [
+		{
+			"key": "A",
+			"value": "む"
+		},
+		{
+			"key": "B",
+			"value": "ゆめ"
+		},
+		{
+			"key": "C",
+			"value": "さめ"
+		}
+	],
+	"answer": {
+		"key": "B",
+		"value": "ゆめ",
+		"explanation": ""
+	}
+}

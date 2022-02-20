@@ -1,0 +1,33 @@
+{
+	"quizId": 5,
+	"quizSet": {
+		"slug": "advanced",
+		"name": "日本語問題 上級",
+		"quizLength": 10
+	},
+	"question": {
+		"num": 5,
+		"title": "次の漢字の読みを答えて下さい",
+		"description": "この装置はDNAの<b>塩基</b>配列を読みとることができる",
+		"hint": ""
+	},
+	"choices": [
+		{
+			"key": "A",
+			"value": "しおけ"
+		},
+		{
+			"key": "B",
+			"value": "えんぎ"
+		},
+		{
+			"key": "C",
+			"value": "えんき"
+		}
+	],
+	"answer": {
+		"key": "C",
+		"value": "えんき",
+		"explanation": ""
+	}
+}

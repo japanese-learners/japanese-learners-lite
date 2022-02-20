@@ -1,0 +1,33 @@
+{
+	"quizId": 10,
+	"quizSet": {
+		"slug": "intermediate",
+		"name": "日本語問題 中級",
+		"quizLength": 10
+	},
+	"question": {
+		"num": 10,
+		"title": "次の漢字を答えて下さい",
+		"description": "メンバーの加入を繰り返して、<b>しんか</b>を遂げてきたグループ",
+		"hint": ""
+	},
+	"choices": [
+		{
+			"key": "A",
+			"value": "進化"
+		},
+		{
+			"key": "B",
+			"value": "深化"
+		},
+		{
+			"key": "C",
+			"value": "経過"
+		}
+	],
+	"answer": {
+		"key": "A",
+		"value": "進化",
+		"explanation": ""
+	}
+}

@@ -1,0 +1,33 @@
+{
+	"quizId": 7,
+	"quizSet": {
+		"slug": "intermediate",
+		"name": "日本語問題 中級",
+		"quizLength": 10
+	},
+	"question": {
+		"num": 7,
+		"title": "次の漢字を答えて下さい",
+		"description": "あそこにいるのは野球<b>せんしゅ</b>じゃないですか？",
+		"hint": ""
+	},
+	"choices": [
+		{
+			"key": "A",
+			"value": "選手"
+		},
+		{
+			"key": "B",
+			"value": "先守"
+		},
+		{
+			"key": "C",
+			"value": "運動"
+		}
+	],
+	"answer": {
+		"key": "A",
+		"value": "選手",
+		"explanation": ""
+	}
+}

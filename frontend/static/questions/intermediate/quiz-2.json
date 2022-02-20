@@ -1,0 +1,33 @@
+{
+	"quizId": 2,
+	"quizSet": {
+		"slug": "intermediate",
+		"name": "日本語問題 中級",
+		"quizLength": 10
+	},
+	"question": {
+		"num": 2,
+		"title": "次の漢字の読みを答えて下さい",
+		"description": "明日、２つの<b>電車</b>に乗ります。",
+		"hint": ""
+	},
+	"choices": [
+		{
+			"key": "A",
+			"value": "じてんしゃ"
+		},
+		{
+			"key": "B",
+			"value": "ばす"
+		},
+		{
+			"key": "C",
+			"value": "でんしゃ"
+		}
+	],
+	"answer": {
+		"key": "C",
+		"value": "でんしゃ",
+		"explanation": ""
+	}
+}

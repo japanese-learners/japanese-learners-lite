@@ -1,0 +1,33 @@
+{
+	"quizId": 9,
+	"quizSet": {
+		"slug": "intermediate",
+		"name": "日本語問題 中級",
+		"quizLength": 10
+	},
+	"question": {
+		"num": 9,
+		"title": "次の漢字を答えて下さい",
+		"description": "アスリートが<b>さいだいげん</b>に力を尽くした結果で勝負するのが理想だ。",
+		"hint": ""
+	},
+	"choices": [
+		{
+			"key": "A",
+			"value": "最低限"
+		},
+		{
+			"key": "B",
+			"value": "最大限"
+		},
+		{
+			"key": "C",
+			"value": "最小限"
+		}
+	],
+	"answer": {
+		"key": "B",
+		"value": "最大限",
+		"explanation": ""
+	}
+}

@@ -1,0 +1,33 @@
+{
+	"quizId": 10,
+	"quizSet": {
+		"slug": "advanced",
+		"name": "日本語問題 上級",
+		"quizLength": 10
+	},
+	"question": {
+		"num": 10,
+		"title": "次の漢字を答えて下さい",
+		"description": "<b>じょうちょう</b>性を確保することでシステムのダウンを回避する",
+		"hint": ""
+	},
+	"choices": [
+		{
+			"key": "A",
+			"value": "上長"
+		},
+		{
+			"key": "B",
+			"value": "冗長"
+		},
+		{
+			"key": "C",
+			"value": "冗重"
+		}
+	],
+	"answer": {
+		"key": "B",
+		"value": "冗長",
+		"explanation": ""
+	}
+}

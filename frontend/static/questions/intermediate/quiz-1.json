@@ -1,0 +1,33 @@
+{
+	"quizId": 1,
+	"quizSet": {
+		"slug": "intermediate",
+		"name": "日本語問題 中級",
+		"quizLength": 10
+	},
+	"question": {
+		"num": 1,
+		"title": "次の漢字の読みを答えて下さい",
+		"description": "今日は夏菜子さん家に<b>遊</b>びに行きます",
+		"hint": ""
+	},
+	"choices": [
+		{
+			"key": "A",
+			"value": "あそ"
+		},
+		{
+			"key": "B",
+			"value": "たか"
+		},
+		{
+			"key": "C",
+			"value": "ゆう"
+		}
+	],
+	"answer": {
+		"key": "A",
+		"value": "あそ",
+		"explanation": ""
+	}
+}

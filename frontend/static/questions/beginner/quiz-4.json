@@ -1,0 +1,33 @@
+{
+	"quizId": 4,
+	"quizSet": {
+		"slug": "beginner",
+		"name": "日本語問題 初級",
+		"quizLength": 10
+	},
+	"question": {
+		"num": 4,
+		"title": "次の漢字の読みを答えて下さい",
+		"description": "とけいが11じを<b>指</b>しました",
+		"hint": ""
+	},
+	"choices": [
+		{
+			"key": "A",
+			"value": "ゆび"
+		},
+		{
+			"key": "B",
+			"value": "し"
+		},
+		{
+			"key": "C",
+			"value": "さ"
+		}
+	],
+	"answer": {
+		"key": "C",
+		"value": "さ",
+		"explanation": ""
+	}
+}

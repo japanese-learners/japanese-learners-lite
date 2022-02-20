@@ -1,0 +1,33 @@
+{
+	"quizId": 10,
+	"quizSet": {
+		"slug": "beginner",
+		"name": "日本語問題 初級",
+		"quizLength": 10
+	},
+	"question": {
+		"num": 10,
+		"title": "次の漢字を答えて下さい",
+		"description": "今日も<b>かいしゃ</b>に出社します",
+		"hint": ""
+	},
+	"choices": [
+		{
+			"key": "A",
+			"value": "社会"
+		},
+		{
+			"key": "B",
+			"value": "会社"
+		},
+		{
+			"key": "C",
+			"value": "社交"
+		}
+	],
+	"answer": {
+		"key": "B",
+		"value": "会社",
+		"explanation": ""
+	}
+}

@@ -1,0 +1,33 @@
+{
+	"quizId": 8,
+	"quizSet": {
+		"slug": "advanced",
+		"name": "日本語問題 上級",
+		"quizLength": 10
+	},
+	"question": {
+		"num": 8,
+		"title": "次の漢字を答えて下さい",
+		"description": "このデータは彼の仮説が正しことを<b>しめ</b>している",
+		"hint": ""
+	},
+	"choices": [
+		{
+			"key": "A",
+			"value": "指"
+		},
+		{
+			"key": "B",
+			"value": "表"
+		},
+		{
+			"key": "C",
+			"value": "示"
+		}
+	],
+	"answer": {
+		"key": "C",
+		"value": "示",
+		"explanation": ""
+	}
+}

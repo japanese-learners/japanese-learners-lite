@@ -1,0 +1,33 @@
+{
+	"quizId": 1,
+	"quizSet": {
+		"slug": "advanced",
+		"name": "日本語問題 上級",
+		"quizLength": 10
+	},
+	"question": {
+		"num": 1,
+		"title": "次の漢字の読みを答えて下さい",
+		"description": "このウイルス性の病気に<b>罹患</b>した患者は既に１万人を超えた",
+		"hint": ""
+	},
+	"choices": [
+		{
+			"key": "A",
+			"value": "らかん"
+		},
+		{
+			"key": "B",
+			"value": "りかん"
+		},
+		{
+			"key": "C",
+			"value": "るかん"
+		}
+	],
+	"answer": {
+		"key": "B",
+		"value": "りかん",
+		"explanation": ""
+	}
+}

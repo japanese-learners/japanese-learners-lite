@@ -1,0 +1,33 @@
+{
+	"quizId": 3,
+	"quizSet": {
+		"slug": "intermediate",
+		"name": "日本語問題 中級",
+		"quizLength": 10
+	},
+	"question": {
+		"num": 3,
+		"title": "次の漢字の読みを答えて下さい",
+		"description": "大雪なので明日の<b>通勤</b>に気をつけてください。",
+		"hint": ""
+	},
+	"choices": [
+		{
+			"key": "A",
+			"value": "つうがく"
+		},
+		{
+			"key": "B",
+			"value": "つうきん"
+		},
+		{
+			"key": "C",
+			"value": "たいきん"
+		}
+	],
+	"answer": {
+		"key": "B",
+		"value": "つうきん",
+		"explanation": ""
+	}
+}

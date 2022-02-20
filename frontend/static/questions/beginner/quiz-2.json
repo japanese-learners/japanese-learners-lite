@@ -1,0 +1,33 @@
+{
+	"quizId": 2,
+	"quizSet": {
+		"slug": "beginner",
+		"name": "日本語問題 初級",
+		"quizLength": 10
+	},
+	"question": {
+		"num": 2,
+		"title": "次の漢字の読みを答えて下さい",
+		"description": "<b>今夜</b>はおまつりだ",
+		"hint": ""
+	},
+	"choices": [
+		{
+			"key": "A",
+			"value": "こんや"
+		},
+		{
+			"key": "B",
+			"value": "こんばん"
+		},
+		{
+			"key": "C",
+			"value": "いまよる"
+		}
+	],
+	"answer": {
+		"key": "A",
+		"value": "こんや",
+		"explanation": ""
+	}
+}

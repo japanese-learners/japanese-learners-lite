@@ -1,0 +1,33 @@
+{
+	"quizId": 5,
+	"quizSet": {
+		"slug": "beginner",
+		"name": "日本語問題 初級",
+		"quizLength": 10
+	},
+	"question": {
+		"num": 5,
+		"title": "次の漢字の読みを答えて下さい",
+		"description": "<b>大人</b>はいそがしそうです",
+		"hint": ""
+	},
+	"choices": [
+		{
+			"key": "A",
+			"value": "おおとこ"
+		},
+		{
+			"key": "B",
+			"value": "おとな"
+		},
+		{
+			"key": "C",
+			"value": "おとこ"
+		}
+	],
+	"answer": {
+		"key": "B",
+		"value": "おとな",
+		"explanation": ""
+	}
+}

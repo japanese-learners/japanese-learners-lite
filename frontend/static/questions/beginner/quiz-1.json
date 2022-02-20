@@ -1,0 +1,33 @@
+{
+	"quizId": 1,
+	"quizSet": {
+		"slug": "beginner",
+		"name": "日本語問題 初級",
+		"quizLength": 10
+	},
+	"question": {
+		"num": 1,
+		"title": "次の漢字の読みを答えて下さい",
+		"description": "先生は大きなこえで<b>生徒</b>をよびました",
+		"hint": ""
+	},
+	"choices": [
+		{
+			"key": "A",
+			"value": "せいあだ"
+		},
+		{
+			"key": "B",
+			"value": "いくと"
+		},
+		{
+			"key": "C",
+			"value": "せいと"
+		}
+	],
+	"answer": {
+		"key": "C",
+		"value": "せいと",
+		"explanation": ""
+	}
+}
